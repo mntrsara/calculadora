@@ -1,0 +1,40 @@
+body {
+    background: #000;
+}
+
+.calculadora {
+    margin-top: 40px;
+    border: solid 1px #6866FB;
+    padding: 20px;
+    background-color: #563D7C;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px #6866FB;
+}
+
+.btn {
+    width: 60px;
+    height: 50px;
+    margin: 5px;
+    box-shadow: 1px 1px 1px #6866FB;
+}
+
+.clear {
+    width: 130px;
+}
+
+.enter {
+    height: 110px;
+}
+
+.zero {
+    width: 130px;
+}
+
+.resultado {
+    text-align: right;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border: solid 1px #6866FB;
+    box-shadow: 1px 1px 1px #6866FB;
+}
