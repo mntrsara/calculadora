@@ -1,5 +1,5 @@
-# Calculadora
-Funções aritméticas
+# Calculadora | Funções aritméticas
+<img src="assets/demo.gif"/>
 
 ## Tecnologias utilizadas
 - `JavaScript`
